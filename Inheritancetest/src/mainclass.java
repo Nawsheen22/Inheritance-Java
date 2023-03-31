@@ -9,7 +9,15 @@ public class mainclass {
     c2.print1();
     c2.print2();
     
+    c2.setname("Meaw");
+    c2.setbreed("Bengal");
+    c2.setcolour("Ginger");
     
+    System.out.println("Name:"+c2.getname());
+    
+    System.out.println("Breed:"+c2.getbreed());
+     
+    System.out.println("Name:"+c2.getcolour());
     	
 		
 		
